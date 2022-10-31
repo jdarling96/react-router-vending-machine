@@ -6,7 +6,7 @@ const Sardines = () => {
     return (
         <div className="SardinesContainer">
             <img className="Sardines" src="https://media.tenor.com/CRrH5FNFLbYAAAAM/sardines-fish.gif"/>
-            <Link to='/'>GO BACK</Link>
+            <h2><Link to='/'>GO BACK</Link></h2>
 
         </div>
     )

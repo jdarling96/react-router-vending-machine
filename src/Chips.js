@@ -5,7 +5,7 @@ const Chips = () => {
     return (
         <div>
              <img className="Chips" src="https://thumbs.gfycat.com/ValidCleverBrahmancow-max-1mb.gif"/>
-            <Link to='/'>GO BACK</Link>
+            <h2><Link to='/'>GO BACK</Link></h2>
         </div>
     )
 }

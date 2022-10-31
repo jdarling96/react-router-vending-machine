@@ -5,7 +5,7 @@ const Soda = () => {
     return (
         <div>
             <img className="Soda" src="https://media.tenor.com/DtzyrD92obIAAAAC/coke-cocacola.gif"/>
-            <Link to='/'>GO BACK</Link>
+            <h2><Link to='/'>GO BACK</Link></h2>
         </div>
     )
 }
